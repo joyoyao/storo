@@ -9,6 +9,7 @@ import java.util.concurrent.Executors;
 import rx.Observable;
 import rx.Subscriber;
 import rx.android.schedulers.AndroidSchedulers;
+import rx.internal.operators.OperatorToObservableList;
 import rx.schedulers.Schedulers;
 
 public abstract class BaseMethod<T> {

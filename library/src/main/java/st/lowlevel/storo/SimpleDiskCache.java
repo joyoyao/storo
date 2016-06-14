@@ -5,7 +5,6 @@ import android.graphics.BitmapFactory;
 
 import com.jakewharton.disklrucache.DiskLruCache;
 
-import org.apache.commons.io.IOUtils;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
